@@ -1,0 +1,22 @@
+{
+  "name": "test-package-lowercase",
+  "version": "1.0.0",
+  "description": "Only for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgeetesh/Test_NPM_Package.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Geetesh Devda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgeetesh/Test_NPM_Package/issues"
+  },
+  "homepage": "https://github.com/dgeetesh/Test_NPM_Package#readme"
+}
